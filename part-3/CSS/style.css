@@ -1,0 +1,34 @@
+#section1{
+    background-color: red;
+    border-color: green;
+    border: solid 3px;
+    padding-top: 100px;
+}
+#section2{
+    border: solid 1px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}#section3{
+    background-color: plum;
+    border: solid blue 2px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+#section4{
+    background-color: rgb(255, 174, 0);
+    border: solid 3px rgb(128, 41, 0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#item1{
+    color: green;
+}
+#item2{
+    color: blue;
+}
+#item3{
+    color: yellow;
+}
+#paragrafo{
+    font-size: 40px;
+}

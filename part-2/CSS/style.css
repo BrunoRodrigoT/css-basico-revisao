@@ -1,0 +1,38 @@
+#cel3{
+    color: turquoise;
+    background-color: darkgreen;
+}
+#cel5{
+    color: teal;
+    background-color: rgb(11, 190, 122);
+}
+#cel7{
+    color: darkgreen;
+    background-color: turquoise;
+}
+#cel4{
+    background-color: turquoise;
+}
+#cel6{
+    background-color: rgb(11, 190, 122);
+}
+#cel8{
+    background-color: darkgreen;
+}
+#cel1{
+    color: white;
+    background-color: black;
+}
+#cel2{
+    color: white;
+    background-color: black;
+}
+h1{
+    text-align: right;
+}
+table{
+    margin: auto;
+}
+.datas{
+    font-weight: bold;
+}

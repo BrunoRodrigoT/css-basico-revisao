@@ -1,0 +1,21 @@
+a:hover{
+color: seagreen;
+}
+a{
+    font-weight: bold;
+}
+p{
+    font-weight: bold;
+}
+
+p strong{ 
+    color: red;
+    font-weight: bold;
+}
+
+.destaque{
+    background-color: rgb(240, 214, 180);
+}
+#unico{
+    font-style: italic;
+}
